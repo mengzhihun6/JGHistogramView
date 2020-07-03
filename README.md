@@ -24,7 +24,8 @@
 ```
 
 
-##效果图
+## 效果图
+
 <img src="./Images/HistogramV.gif" width="375">
 
 <img src="./Images/1.png" width="375">  <img src="./Images/2.png" width="375"> 
