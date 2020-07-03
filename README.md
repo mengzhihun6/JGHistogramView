@@ -1,7 +1,7 @@
 # JGHistogramView
 自定义柱状图📊
 
-###自定义API
+### 自定义API
 
 ```
 @interface ZYHistogramView : ZYBaseView
