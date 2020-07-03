@@ -1,9 +1,15 @@
-# JGHistogramView
-自定义柱状图📊
+//
+//  ZYHistogramView.h
+//  WSCollege
+//
+//  Created by spring on 2020/5/26.
+//  Copyright © 2020 JG. All rights reserved.
+//
 
-###自定义API
+#import "ZYBaseView.h"
 
-```
+NS_ASSUME_NONNULL_BEGIN
+
 @interface ZYHistogramView : ZYBaseView
 //纵轴数据
 @property (nonatomic, strong) NSArray *YAxisArrM;
@@ -21,11 +27,5 @@
 @property (nonatomic, assign) BOOL isHiddenYAxis;
 
 @end
-```
 
-
-##效果图
-<img src="./Images/HistogramV.gif" width="375">
-
-<img src="./Images/1.png" width="375">  <img src="./Images/2.png" width="375"> 
-<img src="./Images/3.png" width="375"> 
+NS_ASSUME_NONNULL_END

@@ -1,0 +1,6 @@
+framework module Pods_JGHistogramView {
+  umbrella header "Pods-JGHistogramView-umbrella.h"
+
+  export *
+  module * { export * }
+}

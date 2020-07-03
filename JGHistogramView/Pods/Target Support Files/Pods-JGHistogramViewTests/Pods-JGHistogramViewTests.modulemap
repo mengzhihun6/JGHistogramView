@@ -1,0 +1,6 @@
+framework module Pods_JGHistogramViewTests {
+  umbrella header "Pods-JGHistogramViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
